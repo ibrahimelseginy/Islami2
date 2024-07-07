@@ -47,12 +47,10 @@ I welcome contributions from the community to enhance Muslim App further. Whethe
 5. Create a new Pull Request.
 
 ## ScreenShots 📸  
-##✨ Light Mode 
+
+## Light Mode ✨
 <div style="display: flex; justify-content: space-between;">
-    
-   
-    
- 
+
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/7c8e5b48-e245-4c11-9fb5-f8a55c65dc11.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/a208289e-b27e-4003-a284-5a335f6f4a82.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/74a2db6d-5341-443c-8777-ca04a38f2876.png " width="150" height="315">
@@ -62,7 +60,7 @@ I welcome contributions from the community to enhance Muslim App further. Whethe
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/7ec0576c-12dd-4960-897a-c785ed74258f.png " width="150" height="315">
 </div>
 
-   ##✨Dark Mode  
+## Dark Mode ✨
 <div style="display: flex; justify-content: space-between; margin-top: 50px;">
  
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/de8eeb1b-8242-48aa-98fb-863f3460d6b4.png " width="150" height="315">
@@ -74,7 +72,7 @@ I welcome contributions from the community to enhance Muslim App further. Whethe
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/596f36cc-802b-4447-82c0-26cd071e638a.png " width="150" height="315">
 </div>
 
-<div>  Islami 🕌   </div>
+<div>  Islami 🕌  </div>
 
 https://github.com/ibrahimelseginy/Islami/assets/160798019/8c8ef9f3-245c-4301-826d-dd13add31208
 
