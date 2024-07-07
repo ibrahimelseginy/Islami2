@@ -84,10 +84,7 @@ This project was made possible thanks to the amazing contributions of developers
 - News APIs: The APIs providing the latest news data for our app.
 
 
-Thank you for checking out our Flutter News App Project! We hope you enjoy using it as much as we enjoyed building it. Happy coding! 🎉
+Thank you for checking out our Flutter Islami App Project! We hope you enjoy using it as much as we enjoyed building it. Happy coding! 🎉
 
 ---
-May Muslim App be a source of guidance and blessings for users. **JazakAllahu Khairan!** 🌟
-
-
-
+May Islami App be a source of guidance and blessings for users. **JazakAllahu Khairan!** 🌟
