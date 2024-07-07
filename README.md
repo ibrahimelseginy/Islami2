@@ -73,7 +73,7 @@ I welcome contributions from the community to enhance Muslim App further. Whethe
 </div>
 
 <div>  Islami 🕌</div>  
-<div style="display: flex; justify-content: space-between;">
+
 https://github.com/ibrahimelseginy/Islami/assets/160798019/8c8ef9f3-245c-4301-826d-dd13add31208
 
 ## Credits 🙌
