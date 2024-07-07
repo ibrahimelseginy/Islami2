@@ -82,8 +82,6 @@ This project was made possible thanks to the amazing contributions of developers
 
 - Flutter: A powerful framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - Dart: The programming language used to build Flutter apps.
-- News APIs: The APIs providing the latest news data for our app.
-
 
 Thank you for checking out our Flutter Islami App Project! We hope you enjoy using it as much as we enjoyed building it. Happy coding! 🎉
 
