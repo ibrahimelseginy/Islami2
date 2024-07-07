@@ -72,10 +72,10 @@ I welcome contributions from the community to enhance Muslim App further. Whethe
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/596f36cc-802b-4447-82c0-26cd071e638a.png " width="150" height="315">
 </div>
 
-<div>  Islami 🕌  </div>
-
+<div>  Islami 🕌  
+<div style="display: flex; justify-content: space-between;">
 https://github.com/ibrahimelseginy/Islami/assets/160798019/8c8ef9f3-245c-4301-826d-dd13add31208
-
+</div>
 ## Credits 🙌
 
 This project was made possible thanks to the amazing contributions of developers like you, as well as the following technologies:
