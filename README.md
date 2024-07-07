@@ -55,10 +55,11 @@ I welcome contributions from the community to enhance Muslim App further. Whethe
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/a208289e-b27e-4003-a284-5a335f6f4a82.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/74a2db6d-5341-443c-8777-ca04a38f2876.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/a97674a8-cf60-4886-b4f9-d29c8a6e5401.png " width="150" height="315">
+<img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/b57eef86-52b1-41f6-9a74-9b5e60547acf.png " width="150" height="315">
+
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 30px;">
-<img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/b57eef86-52b1-41f6-9a74-9b5e60547acf.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/2b23aa4c-14aa-4b21-9569-5875be67eae3.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/7ec0576c-12dd-4960-897a-c785ed74258f.png " width="150" height="315">
 </div>
@@ -73,9 +74,13 @@ I welcome contributions from the community to enhance Muslim App further. Whethe
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/005c21e7-bcc7-478f-9557-0b1bfac8f937.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/54b9ab1f-a725-4336-a0d7-4d6fda02420c.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/15cde50e-dbd3-4ba2-9506-bf8ad22de9ad.png " width="150" height="315"> 
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 30px;">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/a9e2226f-69e3-4bdd-92e5-3c1dec56308c.png " width="150" height="315">
 <img src="https://github.com/ibrahimelseginy/Islami/assets/160798019/596f36cc-802b-4447-82c0-26cd071e638a.png " width="150" height="315">
 </div>
+
 
 <div>  Islami 🕌</div>  
 
