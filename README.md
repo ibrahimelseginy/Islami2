@@ -19,7 +19,8 @@ Welcome to Islami App, your companion for spiritual growth and guidance! This Fl
 - 🌓 **Dark and Light Mode**: Choose between light and dark themes according to your preference.
 - 🌍 **Localization**: Available in Arabic and English for wider accessibility.
 
-## Technologies:
+## Technologies ⚡
+
 - 🔄 **Provider**: Used for efficient state management.
 - 💾 **Shared Preferences**: Used for data persistence.
 - 📂 **Local File Reading**: Used for data persistence.
