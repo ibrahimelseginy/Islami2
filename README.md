@@ -53,7 +53,7 @@ I welcome contributions from the community to enhance Muslim App further. Whethe
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
 
-## UI Design
+##  🔗Link UI Design
 
 https://www.figma.com/design/CTPCxoTl7EH2rO97OlBM47/Islami?node-id=0-1&t=4Q8y9wF48CkroJYX-1
 
